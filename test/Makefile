@@ -11,7 +11,7 @@ PROJECT_SOURCES += four_sub.v
 PROJECT_SOURCES += full_add.v
 PROJECT_SOURCES += half_add.v
 PROJECT_SOURCES += mult.v
-PROJECT_SOURCES += two_comp.
+PROJECT_SOURCES += two_comp.v
 
 ifneq ($(GATES),yes)
 
